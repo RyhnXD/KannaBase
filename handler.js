@@ -696,7 +696,7 @@ export async function participantsUpdate({ id, participants, action }) {
     this.sendHydrated(id, text, wm + '\n\n' + botdate, pp, sgc, (action == 'add' ? '💌 WELCOME' : '🐾 BYE'), user.split`@`[0], '🌹 USER', [
       ['ᴍᴇɴᴜ', '/menu'],
       [(action == 'add' ? '\n\nYAELAH BEBAN GROUP NAMBAH 1 :(' : '\n\nBYE BEBAN! :)'), '...'],
-      [null, null]
+      ['👋ɢᴏᴏᴅʙʏᴇ, .owner]
     ], null, false, { mentions: [user] })
                     }
                 }
