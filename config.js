@@ -116,7 +116,7 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 global.wm = '                「 ᴀᴢᴜsᴀʙᴏᴛ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ƙαnnα - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘sᴀᴋᴜʀᴀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = '߷ ᴀᴢᴜsᴀ ʙᴏᴛᴢ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
@@ -160,7 +160,7 @@ global.dmenuf = '┗––––––––––✦' //footer
 global.dashmenu = '┅━━━━━═┅═❏ *DASHBOARD* ❏═┅═━━━━━┅'
 global.cmenut = '❏––––––『'                       //top
 global.cmenuh = '』––––––'                        //header
-global.cmenub = '┊✦ '                            //body
+global.cmenub = '┊༆ '                            //body
 global.cmenuf = '┗━═┅═━––––––๑\n'                //footer
 global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     ' //after
 global.pmenus = '┊'                              //pembatas menu selector
@@ -169,12 +169,12 @@ global.htki = '––––––『' // Hiasan Titile (KIRI)
 global.htka = '』––––––' // Hiasan Title  (KANAN)
 global.lopr = 'Ⓟ' //LOGO PREMIUM ON MENU.JS
 global.lolm = 'Ⓛ' //LOGO FREE ON MENU.JS
-global.htjava = '⫹⫺'    //hiasan Doang :v
+global.htjava = '𖧷'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎\n𝗞\na\nn\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `ᴀᴢᴜsᴀ ʙᴏᴛᴢ ᴏᴡɴᴇʀ ᴀᴢᴜsᴀ {ᴡᴀ.ᴍᴇ/62895627514070}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
